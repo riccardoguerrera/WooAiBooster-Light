@@ -1,0 +1,414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce AI Booster\n"
+"POT-Creation-Date: 2024-11-05 22:28+0100\n"
+"PO-Revision-Date: 2024-11-05 22:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woo-ai-booster.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: admin/debug-log.php:7 admin/debug-log.php:8
+msgid "Log attività"
+msgstr "Log attività"
+
+#: admin/meta-box.php:34
+msgid "Rimuovere il testo per rigenerare il contenuto!"
+msgstr "Rimuovere il testo per rigenerare il contenuto!"
+
+#: admin/settings-page.php:6 admin/settings-page.php:7
+msgid "Woo AI Booster"
+msgstr "Woo AI Booster"
+
+#: admin/settings-page.php:111
+msgid "Salva Impostazioni"
+msgstr "Salva Impostazioni"
+
+#: admin/settings-page.php:135
+msgid "Configurazione guidata del Prompt per IA"
+msgstr "Configurazione guidata del Prompt per IA"
+
+#: admin/settings-page.php:142
+msgid "Seleziona IA"
+msgstr "Seleziona IA"
+
+#: admin/settings-page.php:151 admin/settings-page.php:332
+#: admin/settings-page.php:343
+msgid "Seleziona una lingua"
+msgstr "Seleziona una lingua"
+
+#: admin/settings-page.php:160
+msgid "Inserisci la API KEY per SERPAPI"
+msgstr "Inserisci la API KEY per SERPAPI"
+
+#: admin/settings-page.php:173
+msgid "Generazione del prompt per "
+msgstr "Generazione del prompt per "
+
+#: admin/settings-page.php:182
+msgid "Inserisci la API KEY"
+msgstr "Inserisci la API KEY"
+
+#: admin/settings-page.php:191
+msgid "Seleziona un modello"
+msgstr "Seleziona un modello"
+
+#: admin/settings-page.php:200
+msgid "Numero massimo di caratteri"
+msgstr "Numero massimo di caratteri"
+
+#: admin/settings-page.php:209
+msgid "Descrizione dello Shop"
+msgstr "Descrizione dello Shop"
+
+#: admin/settings-page.php:219
+msgid "Formattazione del testo "
+msgstr "Formattazione del testo "
+
+#: admin/settings-page.php:228
+msgid "Selezione delle tassonomie"
+msgstr "Selezione delle tassonomie"
+
+#: admin/settings-page.php:241
+msgid "Informazioni specifiche per la Tab di Woocommerce "
+msgstr "Informazioni specifiche per la Tab di Woocommerce "
+
+#: admin/settings-page.php:248
+msgid "Istruzioni supplementari"
+msgstr "Istruzioni supplementari"
+
+#: admin/settings-page.php:257
+msgid "Sito web di riferimento"
+msgstr "Sito web di riferimento"
+
+#: admin/settings-page.php:266
+msgid "Campi meta dei prodotti"
+msgstr "Campi meta dei prodotti"
+
+#: admin/settings-page.php:296
+msgid "IA disponibili"
+msgstr "IA disponibili"
+
+#: admin/settings-page.php:307
+msgid "Seleziona una IA"
+msgstr "Seleziona una IA"
+
+#: admin/settings-page.php:309
+msgid ""
+"Chat-GPT è un chat bot basato su intelligenza artificiale e apprendimento "
+"automatico, sviluppato da OpenAI e specializzato nella conversazione con un "
+"utente umano. "
+msgstr ""
+"Chat-GPT è un chat bot basato su intelligenza artificiale e apprendimento "
+"automatico, sviluppato da OpenAI e specializzato nella conversazione con un "
+"utente umano. "
+
+#: admin/settings-page.php:310
+msgid ""
+"Claude è un assistente IA conversazionale sviluppato da Anthropic, che "
+"sfrutta tecniche avanzate di elaborazione del linguaggio naturale e di "
+"apprendimento profondo. "
+msgstr ""
+"Claude è un assistente IA conversazionale sviluppato da Anthropic, che "
+"sfrutta tecniche avanzate di elaborazione del linguaggio naturale e di "
+"apprendimento profondo. "
+
+#: admin/settings-page.php:345
+msgid "Il contenuto sarà generato dalla IA nella lingua selezionata. "
+msgstr "Il contenuto sarà generato dalla IA nella lingua selezionata. "
+
+#: admin/settings-page.php:368
+msgid "SERPAPI API KEY"
+msgstr "SERPAPI API KEY"
+
+#: admin/settings-page.php:375
+msgid "Inserisci la chiave API per serpapi.com"
+msgstr "Inserisci la chiave API per serpapi.com"
+
+#: admin/settings-page.php:377
+msgid ""
+"Il servizio fornito da serpapi.com è necessario nel caso si voglia "
+"utilizzare la funzionalità avanzata di \"web scraping\" del plugin. "
+msgstr ""
+"Il servizio fornito da serpapi.com è necessario nel caso si voglia "
+"utilizzare la funzionalità avanzata di \"web scraping\" del plugin. "
+
+#: admin/settings-page.php:378 admin/settings-page.php:411
+msgid ""
+"Una Chiave API è un codice univoco utilizzato per autenticare e autorizzare "
+"l'accesso a un'API software. Funziona come una \"password\" che consente di "
+"collegarsi al servizio scelto e interagire con il modello di IA, garantendo "
+"che solo utenti autorizzati possano inviare richieste e ricevere risposte. "
+msgstr ""
+"Una Chiave API è un codice univoco utilizzato per autenticare e autorizzare "
+"l'accesso a un'API software. Funziona come una \"password\" che consente di "
+"collegarsi al servizio scelto e interagire con il modello di IA, garantendo "
+"che solo utenti autorizzati possano inviare richieste e ricevere risposte. "
+
+#: admin/settings-page.php:379 admin/settings-page.php:412
+msgid "Per generare una Chiave API "
+msgstr "Per generare una Chiave API "
+
+#: admin/settings-page.php:379 admin/settings-page.php:412
+#: admin/settings-page.php:450
+msgid "clicca qui!"
+msgstr "clicca qui!"
+
+#: admin/settings-page.php:402
+msgid "AI API KEY"
+msgstr "AI API KEY"
+
+#: admin/settings-page.php:409
+msgid "Inserisci la chiave API per la IA scelta"
+msgstr "Inserisci la chiave API per la IA scelta"
+
+#: admin/settings-page.php:436
+msgid "Modelli disponibili"
+msgstr "Modelli disponibili"
+
+#: admin/settings-page.php:447
+msgid "Seleziona uno dei modelli di IA disponibili"
+msgstr "Seleziona uno dei modelli di IA disponibili"
+
+#: admin/settings-page.php:449
+msgid ""
+"Una intelligenza artificiale può offrire diversi modelli matematici, "
+"ottimizzati per risolvere compiti specifici, come la comprensione del "
+"linguaggio naturale, l'elaborazione di immagini o il riconoscimento vocale."
+msgstr ""
+"Una intelligenza artificiale può offrire diversi modelli matematici, "
+"ottimizzati per risolvere compiti specifici, come la comprensione del "
+"linguaggio naturale, l'elaborazione di immagini o il riconoscimento vocale."
+
+#: admin/settings-page.php:450
+msgid "Se vuoi approfondire "
+msgstr "Se vuoi approfondire "
+
+#: admin/settings-page.php:481
+msgid "Imposta la lunghezza del contenuto da generare"
+msgstr "Imposta la lunghezza del contenuto da generare"
+
+#: admin/settings-page.php:483
+msgid ""
+"Maggiore sarà il numero di caratteri del testo da generare maggiore sarà il "
+"costo per singola chiamate alle API del IA."
+msgstr ""
+"Maggiore sarà il numero di caratteri del testo da generare maggiore sarà il "
+"costo per singola chiamate alle API del IA."
+
+#: admin/settings-page.php:506
+msgid "Sì"
+msgstr "Sì"
+
+#: admin/settings-page.php:513
+msgid "Generare un testo formattato secondo gli standard semantici di HTML5?"
+msgstr "Generare un testo formattato secondo gli standard semantici di HTML5?"
+
+#: admin/settings-page.php:515
+msgid ""
+"Un testo ben formattato, oltre che facilitare la lettura da parte degli "
+"utenti, potrebbe avere benefici in termini SEO. "
+msgstr ""
+"Un testo ben formattato, oltre che facilitare la lettura da parte degli "
+"utenti, potrebbe avere benefici in termini SEO. "
+
+#: admin/settings-page.php:536 admin/settings-page.php:715
+#: admin/settings-page.php:760 admin/settings-page.php:827
+#: admin/settings-page.php:864 admin/settings-page.php:897
+msgid "Descrizione"
+msgstr "Descrizione"
+
+#: admin/settings-page.php:544
+msgid ""
+"Descrivi la tipologia di prodotti che vende il tuo negozio e il target di "
+"utenti"
+msgstr ""
+"Descrivi la tipologia di prodotti che vende il tuo negozio e il target di "
+"utenti"
+
+#: admin/settings-page.php:546
+msgid ""
+"Nella descrizione cerca di essere il più chiaro ed esaustivo possibile, per "
+"ottenere una maggiore precisione sui contenuti generati."
+msgstr ""
+"Nella descrizione cerca di essere il più chiaro ed esaustivo possibile, per "
+"ottenere una maggiore precisione sui contenuti generati."
+
+#: admin/settings-page.php:587 admin/settings-page.php:625
+#: admin/settings-page.php:659
+msgid "Tassonomie trovate"
+msgstr "Tassonomie trovate"
+
+#: admin/settings-page.php:597 admin/settings-page.php:635
+#: admin/settings-page.php:669
+msgid "Informazioni e istruzioni specifiche per questa tassonomia"
+msgstr "Informazioni e istruzioni specifiche per questa tassonomia"
+
+#: admin/settings-page.php:691 admin/settings-page.php:919
+msgid ""
+"Campi meta dei prodotti contenenti informazioni utili per la tab selezionata"
+msgstr ""
+"Campi meta dei prodotti contenenti informazioni utili per la tab selezionata"
+
+#: admin/settings-page.php:693
+msgid ""
+"Una tassonomia, in WordPress, è un sistema di classificazione utilizzato per "
+"organizzare i contenuti. Le tassonomie possono essere gerarchiche, simili a "
+"una struttura ad albero come le \"categorie\", o non gerarchiche, come i "
+"\"tag\"."
+msgstr ""
+"Una tassonomia, in WordPress, è un sistema di classificazione utilizzato per "
+"organizzare i contenuti. Le tassonomie possono essere gerarchiche, simili a "
+"una struttura ad albero come le \"categorie\", o non gerarchiche, come i "
+"\"tag\"."
+
+#: admin/settings-page.php:694
+msgid ""
+"Seleziona una o più tassonomia dalla lista, se ritieni possa essere utile "
+"fornire alla IA l'informazione contenuta in essa. Questa verrà utilizzata "
+"per migliorare la generazione del contenuto della Tab di Woocommerce di ogni "
+"pagina prodotto."
+msgstr ""
+"Seleziona una o più tassonomia dalla lista, se ritieni possa essere utile "
+"fornire alla IA l'informazione contenuta in essa. Questa verrà utilizzata "
+"per migliorare la generazione del contenuto della Tab di Woocommerce di ogni "
+"pagina prodotto."
+
+#: admin/settings-page.php:724
+msgid ""
+"Inserire istruzioni specifiche per questa tab da incorporare nel prompt "
+"destinato alla IA"
+msgstr ""
+"Inserire istruzioni specifiche per questa tab da incorporare nel prompt "
+"destinato alla IA"
+
+#: admin/settings-page.php:726
+msgid ""
+"Istruzioni supplementari da tenere in considerazione per questa specifica "
+"tab di Woocommerce. "
+msgstr ""
+"Istruzioni supplementari da tenere in considerazione per questa specifica "
+"tab di Woocommerce. "
+
+#: admin/settings-page.php:771
+msgid "Sito web con informazioni aggiuntive"
+msgstr "Sito web con informazioni aggiuntive"
+
+#: admin/settings-page.php:773
+msgid ""
+"Funzionalità di \"web scraping\" avanzata: puoi specificare un sito web da "
+"cui attingere informazioni sul prodotto per la tab selezionata."
+msgstr ""
+"Funzionalità di \"web scraping\" avanzata: puoi specificare un sito web da "
+"cui attingere informazioni sul prodotto per la tab selezionata."
+
+#: admin/settings-page.php:774
+msgid ""
+"I dati saranno raccolti e analizzati in maniera automatizzata, e infine "
+"utilizzati per arricchire il contenuto della tab del prodotto sul tuo "
+"ecommerce."
+msgstr ""
+"I dati saranno raccolti e analizzati in maniera automatizzata, e infine "
+"utilizzati per arricchire il contenuto della tab del prodotto sul tuo "
+"ecommerce."
+
+#: admin/settings-page.php:775
+msgid ""
+"Ricordati sempre di verificare i Termini di servizio (ToS) del sito web da "
+"cui vuoi attingere informazioni in merito alla attività di web scraping, che "
+"potrebbe non essere consentita, e anche eventuali divieti relativi al "
+"copyright dei testi."
+msgstr ""
+"Ricordati sempre di verificare i Termini di servizio (ToS) del sito web da "
+"cui vuoi attingere informazioni in merito alla attività di web scraping, che "
+"potrebbe non essere consentita, e anche eventuali divieti relativi al "
+"copyright dei testi."
+
+#: admin/settings-page.php:776
+msgid ""
+"Questa funzionalità è in fase di test. Si tratta inoltre di una operazione "
+"\"costosa\" in termini computazionali, che potrebbe anche incidere sul costo "
+"delle API per la IA scelta."
+msgstr ""
+"Questa funzionalità è in fase di test. Si tratta inoltre di una operazione "
+"\"costosa\" in termini computazionali, che potrebbe anche incidere sul costo "
+"delle API per la IA scelta."
+
+#: admin/settings-page.php:817 admin/settings-page.php:854
+#: admin/settings-page.php:887
+msgid "Campi Meta trovati"
+msgstr "Campi Meta trovati"
+
+#: admin/settings-page.php:921
+msgid ""
+"In WordPress, un campo meta è un elemento di dati associato a un post, una "
+"pagina o, nel caso del plugin WooCommerce, a un prodotto. Ogni campo meta "
+"memorizza informazioni aggiuntive legate a un informazione specifica, come "
+"ad esempio lo SKU, un prezzo scontato, le dimensioni, o altre specifiche "
+"tecniche del prodotto."
+msgstr ""
+"In WordPress, un campo meta è un elemento di dati associato a un post, una "
+"pagina o, nel caso del plugin WooCommerce, a un prodotto. Ogni campo meta "
+"memorizza informazioni aggiuntive legate a un informazione specifica, come "
+"ad esempio lo SKU, un prezzo scontato, le dimensioni, o altre specifiche "
+"tecniche del prodotto."
+
+#: admin/settings-page.php:922
+msgid ""
+"Seleziona uno o più campi meta dalla lista dei campi meta trovati, se "
+"ritieni possa essere utile fornire alla IA le informazione contenute in "
+"essi. Verranno utilizzati per migliorare la generazione del contenuto della "
+"Tab di Woocommerce selezionata, in ogni pagina prodotto."
+msgstr ""
+"Seleziona uno o più campi meta dalla lista dei campi meta trovati, se "
+"ritieni possa essere utile fornire alla IA le informazione contenute in "
+"essi. Verranno utilizzati per migliorare la generazione del contenuto della "
+"Tab di Woocommerce selezionata, in ogni pagina prodotto."
+
+#: helper/woocommerce.php:22
+msgid "Description"
+msgstr "Descrizione"
+
+#: wc-templates-override/single-product/tabs/additional-information.php:13
+msgid "Additional information"
+msgstr "Additional information"
+
+#: woo-ai-booster.php:44
+msgid ""
+"Il plugin \"Woo AI Booster\" richiede WooCommerce per funzionare. "
+"WooCommerce non è attivo, quindi il plugin è stato disattivato."
+msgstr ""
+"Il plugin \"Woo AI Booster\" richiede WooCommerce per funzionare. "
+"WooCommerce non è attivo, quindi il plugin è stato disattivato."
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce AI Booster"
+msgstr "WooCommerce AI Booster"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://riccardoguerrera.dev"
+msgstr "https://riccardoguerrera.dev"
+
+#. Description of the plugin/theme
+msgid "An woocommerce plugin that helps you sell anything with AI support."
+msgstr ""
+"Un plugin per Woocommerce utile ad aiutarti a vendere qualsiasi cosa con "
+"l'aiuto delle IA."
+
+#. Author of the plugin/theme
+msgid "Riccardo Guerrera"
+msgstr "Riccardo Guerrera"
