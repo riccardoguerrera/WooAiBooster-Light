@@ -1,14 +1,22 @@
 <?php
 
 	function woo_ai_booster_light_generate_tab_content() {
-
+	
 		if (!is_admin()) {
-
-			$options = get_option('woo_ai_booster_light_settings');
-
-			$product_id = get_the_ID();
-
-			$wc_tabs = woo_ai_booster_light_helper_get_woo_tabs();
+	
+		$options = get_option('woo_ai_booster_light_settings');
+		
+		$product_id = get_the_ID();
+	
+			if (empty(get_the_content($product_id))) {
+				$product = array(
+					'ID'           => $product_id,
+					'post_content' => '...',
+				);
+				wp_update_post($product);
+			}
+		
+		$wc_tabs = woo_ai_booster_light_helper_get_woo_tabs();
 
             $selected_ai = str_replace('-', '_', $options['ai']);
 
